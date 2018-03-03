@@ -19,8 +19,8 @@ public class Assignment1_SWE2 {
 			
 			
 			System.out.println("\n\n\t\t\tRESTFul API \n");
-			System.out.println("\t 1 -> Running APIXU API");
-			System.out.println("\t 2 -> Running Fixer API ");
+			System.out.println("\t 1 -> Running  API one");
+			System.out.println("\t 2 -> Running  API two ");
 			System.out.print("\t 3 -> Exit \n\n\t\t>>>   ");
 			
 			scanner = new Scanner(System.in);
